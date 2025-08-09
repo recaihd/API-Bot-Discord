@@ -1,4 +1,5 @@
 <img src="https://i.postimg.cc/qvTwGH1K/spibsnner.png">
+
 ---
 
 # Bot de Notificação de Vídeos do YouTube no Discord
