@@ -12,7 +12,7 @@ Inclui **embeds personalizados**, **botão para assistir** e suporte a **Shorts*
 ## Funcionalidades
 - Notifica **imediatamente** quando um vídeo novo é postado.
 - Mostra **título, descrição, thumbnail e botão de assistir**.
-- Funciona para vídeos normais e **Shorts**.
+- Funciona para vídeos longos e **Shorts**.
 - Salva o último vídeo notificado para evitar mensagens repetidas.
 
 ---
