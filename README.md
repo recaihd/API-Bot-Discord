@@ -20,7 +20,7 @@ Inclui **embeds personalizados**, **botão para assistir** e suporte a **Shorts*
 Para rodar este projeto, instale as seguintes bibliotecas no Node.js:
 
 ```bash
-npm install discord.js axios dotenv
+npm install discord.js
 ```
 ```bash
 npm install dotenv
