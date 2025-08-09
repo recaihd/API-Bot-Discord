@@ -1,12 +1,12 @@
 
-# 🤖 Bot de Notificação de Vídeos do YouTube no Discord
+# Bot de Notificação de Vídeos do YouTube no Discord
 
 Um bot do Discord que utiliza a **YouTube Data API v3** para enviar notificações automáticas quando novos vídeos são publicados em um canal específico do YouTube.  
 Inclui **embeds personalizados**, **botão para assistir** e suporte a **Shorts**.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 - Notifica **imediatamente** quando um vídeo novo é postado.
 - Mostra **título, descrição, thumbnail e botão de assistir**.
 - Funciona para vídeos normais e **Shorts**.
@@ -14,7 +14,7 @@ Inclui **embeds personalizados**, **botão para assistir** e suporte a **Shorts*
 
 ---
 
-## 📦 Dependências
+## Dependências
 
 Para rodar este projeto, instale as seguintes bibliotecas no Node.js:
 
