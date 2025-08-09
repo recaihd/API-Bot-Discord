@@ -22,3 +22,8 @@ Para rodar este projeto, instale as seguintes bibliotecas no Node.js:
 ```bash
 npm install discord.js axios dotenv
 ```
+```bash
+npm install dotenv
+```
+```bash
+npm install axios
