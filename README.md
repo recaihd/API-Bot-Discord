@@ -33,6 +33,4 @@ npm install dotenv
 ```bash
 npm install axios
 ```
-```bash
-npm install fs
-```
+
