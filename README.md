@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/qvTwGH1K/spibsnner.png" height="700">
+<img src="https://i.postimg.cc/qvTwGH1K/spibsnner.png">
 # Bot de Notificação de Vídeos do YouTube no Discord
 
 Um bot do Discord que utiliza a **YouTube Data API v3** para enviar notificações automáticas quando novos vídeos são publicados em um canal específico do YouTube.  
