@@ -25,6 +25,9 @@ Para rodar este projeto, instale as seguintes bibliotecas no Node.js:
 npm install discord.js
 ```
 ```bash
+npm install googleapis
+```
+```bash
 npm install dotenv
 ```
 ```bash
