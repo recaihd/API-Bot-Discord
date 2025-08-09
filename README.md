@@ -1,4 +1,3 @@
-# API-Bot-Discord
 
 # 🤖 Bot de Notificação de Vídeos do YouTube no Discord
 
